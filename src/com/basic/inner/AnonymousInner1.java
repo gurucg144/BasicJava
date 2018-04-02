@@ -6,6 +6,7 @@ public class AnonymousInner1 {
 			@Override
 			public void drive () {
 				//Test comment for source tree test from eclipse2
+				//Test commit from IDEA
 				System.out.println ("Driving Honda");
 			}
 		};
