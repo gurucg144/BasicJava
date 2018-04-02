@@ -5,7 +5,7 @@ public class AnonymousInner1 {
 		Car honda = new Car () {			
 			@Override
 			public void drive () {
-				//Test comment for source tree test
+				//Test comment for source tree test from eclipse
 				System.out.println ("Driving Honda");
 			}
 		};
