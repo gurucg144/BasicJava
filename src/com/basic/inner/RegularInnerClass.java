@@ -4,6 +4,7 @@ public class RegularInnerClass {
 	
 	public static void main (String args []) {
 		
+		System.out.println ("Calling main method");
 		Outer outer = new Outer ();	
 		outer.innerCanaccessOuter();
 	}
