@@ -1,5 +1,6 @@
 package com.basic.inner;
 
+//Another change to master
 public class RegularInnerClass {
 	
 	public static void main (String args []) {
