@@ -1,6 +1,7 @@
 package com.basic.inner;
 
 //commit to master after dev commit.
+//First change in dev branch
 public class AnonymousInner1 {
 	public static void main (String args []) {
 		Car honda = new Car () {			
